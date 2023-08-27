@@ -1,0 +1,5 @@
+DB_USERNAME=<username>
+DB_PASSWORD=<password>
+ACCESS_SECRET_KEY=<sercetKey>
+REFRESH_SECRET_KEY=<access>
+DB=mongodb://localhost/image-upload
